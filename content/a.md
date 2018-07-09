@@ -1,7 +1,8 @@
 ---
-title: "Nothing interesting here"
-date: 2018-06-30T14:44:15+12:00
+title: Nothing interesting here v2
+date: 2018-06-30 02:44:15 +0000
 draft: true
+
 ---
 <html>
 <body>
