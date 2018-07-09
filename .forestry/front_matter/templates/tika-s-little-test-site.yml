@@ -16,5 +16,8 @@ fields:
   name: image
   label: image
   description: image here
+- type: textarea
+  name: text
+  label: text
 pages:
 - content/testing-forestryv3.html
