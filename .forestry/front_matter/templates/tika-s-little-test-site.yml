@@ -1,7 +1,7 @@
 ---
 label: Tika's little test site
 hide_body: true
-is_partial: true
+is_partial: false
 fields:
 - type: text
   name: title
