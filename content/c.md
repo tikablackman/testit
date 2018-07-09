@@ -1,9 +1,8 @@
 ---
-title: "No history yet, sorry"
-date: 2018-07-01T13:16:34+12:00
-draft: true
----
+title: No history yet, sorry
+date: 2018-07-01 01:16:34 +0000
 
+---
 <html>
 <body>
 <div align="center">
