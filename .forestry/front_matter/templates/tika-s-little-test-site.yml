@@ -1,4 +1,13 @@
 ---
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: datetime
+  name: Kartika
+  config:
+    date_format: 28/05/1986
+    required: false
+    display_utc: false
+    time_format: '2:00'
+  label: blah
+  description: nothing
