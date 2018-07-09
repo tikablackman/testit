@@ -1,6 +1,6 @@
 ---
 label: Tika's little test site
-hide_body: true
+hide_body: false
 is_partial: false
 fields:
 - type: text
